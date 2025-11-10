@@ -1,0 +1,4 @@
+name: MissionsPlugin
+version: '1.0-SNAPSHOT'
+main: net.milocodee.missions.MissionsPlugin
+api-version: '1.21'
